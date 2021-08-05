@@ -23,4 +23,5 @@ Levantar el Servidor Frontend
 5.	Levantar el proyecto en la siguiente url:  http://localhost:4200/
 
 
-En el fichero Documentacion/documentacion.txt están explicados todos los edpoint , con el respectivo body y la respuesta que retorna la API
+En el fichero Documentacion/documentacion.txt esta explicado la aplicacion
+Tambien existe una carpeta que se llama endpoint  con todos los edpoints , con el respectivo body y la respuesta que retorna la API
