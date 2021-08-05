@@ -21,3 +21,6 @@ Levantar el Servidor Frontend
 3.	Abrir la terminal e instalar los módulos del proyecto con el comando : npm install
 4.	Levantar el proyecto con el siguiente comando : ng serve -o
 5.	Levantar el proyecto en la siguiente url:  http://localhost:4200/
+
+
+En el fichero Documentacion/documentacion.txt están explicados todos los edpoint , con el respectivo body y la respuesta que retorna la API
